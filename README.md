@@ -1,107 +1,293 @@
-<h1 align="center">Hi, I'm Vikas Pandey</h1>
-<h3 align="center">GenAI Engineer | Agentic AI Systems | LLM Infrastructure & Applied Research</h3>
+<h1 align="center">
+Hi 👋 I'm Vikas Pandey
+</h1>
+
+<h3 align="center">
+Senior AI Research Engineer • Agentic AI • LLM Systems • RAG • GenAI
+</h3>
 
 <p align="center">
-I build production-grade AI systems with LLMs, retrieval pipelines, agent orchestration, and evaluation-driven application design.
+Building production-ready AI systems powered by Large Language Models, Multi-Agent Architectures, Retrieval-Augmented Generation, and Knowledge Graphs.
 </p>
 
 <p align="center">
-<a href="https://github.com/itsvikaspandey/itsvikaspandey/issues/new"><b>Collaborate with me</b></a> •
-<a href="https://www.linkedin.com/in/itsvikaspandey/"><b>LinkedIn</b></a> •
-<a href="https://www.kaggle.com/itsmevkpandey/"><b>Kaggle</b></a>
+
+<a href="https://github.com/itsvikaspandey">
+<img src="https://img.shields.io/github/followers/itsvikaspandey?label=Followers&style=for-the-badge">
+</a>
+
+<a href="https://www.linkedin.com/in/itsvikaspandey/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+
+<a href="https://www.youtube.com/@BlueprintOfAI">
+<img src="https://img.shields.io/badge/Blueprint%20of%20AI-FF0000?style=for-the-badge&logo=youtube">
+</a>
+
+<a href="https://blueprintofai.in">
+<img src="https://img.shields.io/badge/Website-blue?style=for-the-badge">
+</a>
+
 </p>
 
-<img align="right" alt="AI Engineer" width="380" src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif">
+---
 
-## About Me
+# 🚀 About Me
 
-I focus on designing and deploying **LLM-native applications** that combine reasoning, retrieval, memory, and tool use into reliable end-to-end systems.
+I'm a Senior AI Research Engineer specializing in designing, building, and deploying **production-grade AI systems**.
 
-- Building **GenAI applications** for knowledge automation, semantic search, copilots, and workflow acceleration
-- Designing **agentic systems** with planning, tool calling, multi-step execution, and structured outputs
-- Developing **RAG architectures** using embeddings, vector databases, reranking, and context-grounded generation
-- Working on **prompt engineering, model evaluation, fine-tuning strategies, and inference optimization**
-- Shipping AI backends with **Python, APIs, containers, cloud services, and production-oriented ML workflows**
+My work focuses on bridging cutting-edge LLM research with scalable enterprise applications.
 
-## Technical Focus
+I enjoy solving problems around:
 
-- **LLM Engineering**: prompt pipelines, function calling, structured generation, guardrails, evals, latency-aware design
-- **Agentic AI**: autonomous agents, tool-augmented reasoning, planner-executor loops, memory-aware workflows
-- **Retrieval Systems**: embeddings, vector indexing, semantic retrieval, hybrid search, reranking, document grounding
-- **NLP & Applied ML**: transformers, text classification, information extraction, summarization, experimentation pipelines
-- **AI Deployment**: API services, containerization, cloud deployment, observability, scalable inference workflows
+- 🤖 Agentic AI Systems
+- 🧠 Large Language Models
+- 📚 Retrieval-Augmented Generation (RAG)
+- 🕸️ Knowledge Graphs
+- ⚡ AI Workflow Automation
+- 📊 LLM Evaluation
+- 🔍 Semantic Search
+- 🛠️ AI Infrastructure
 
-## Tech Stack
+---
 
-### Languages
-- Python
-- SQL
-- C
+## 💼 Currently Building
 
-### LLM / GenAI
-- OpenAI API
+- 🧩 Architecting **stateful multi-agent workflows** with LangGraph, including orchestration, routing, retries, and human-in-the-loop approval flows
+- 📚 Developing **enterprise RAG pipelines** with hybrid retrieval, reranking, contextual chunking, and citation-grounded responses
+- 🕸️ Building **Knowledge Graph-powered AI assistants** using Neo4j for relationship-aware reasoning and Graph RAG
+- 🔍 Designing **LLM evaluation frameworks** with automated benchmarks, regression testing, and LangSmith observability
+- ⚡ Engineering **structured-output pipelines** using Pydantic schemas, tool calling, and robust validation for production APIs
+- 🤖 Creating **AI agents** capable of planning, tool execution, memory management, and long-running workflows
+- 📄 Developing **document intelligence systems** for extracting, classifying, and reasoning over complex enterprise documents
+- 🚀 Deploying **production-ready AI services** with FastAPI, Docker, asynchronous processing, and scalable inference architectures
+
+---
+
+# 🧠 AI Specializations
+
+### Agentic AI
+
+- Multi-Agent Systems
+- Tool Calling
+- Planning & Execution
+- Memory
+- Human Approval
+- Reflection
+- State Machines
+- Workflow Orchestration
+
+### LLM Engineering
+
+- Prompt Engineering
+- Function Calling
+- Structured Output
+- OpenAI
+- Claude
+- Gemini
+- Llama
+- Qwen
+- DeepSeek
+- Ollama
+
+### RAG
+
+- Hybrid Search
+- Vector Search
+- Semantic Search
+- Re-ranking
+- Context Engineering
+- Embeddings
+- Knowledge Graph RAG
+- Graph RAG
+
+---
+
+# ⚙️ Tech Stack
+
+### 🧠 AI & Large Language Models
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google)
+![Llama](https://img.shields.io/badge/Llama-0467DF?style=flat-square)
+![Qwen](https://img.shields.io/badge/Qwen-FF6B00?style=flat-square)
+![DeepSeek](https://img.shields.io/badge/DeepSeek-2563EB?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square)
+
+---
+
+### 🤖 Agentic AI & Orchestration
+
+- LangGraph
 - LangChain
-- RAG pipelines
-- Prompt engineering
-- Function calling
-- Structured outputs
-- Agent workflows
-- Evaluation loops
+- LangSmith
+- MCP (Model Context Protocol)
+- Google ADK
+- Function Calling
+- Tool Calling
+- Structured Outputs
+- Multi-Agent Systems
+- Human-in-the-Loop
+- Workflow Orchestration
 
-### Machine Learning / NLP
-- TensorFlow
-- Scikit-learn
-- Pandas
-- NumPy
-- OpenCV
-- Transformer-based NLP workflows
+---
 
-### Backend / APIs
+### 📚 Retrieval & Knowledge Systems
+
+- Retrieval-Augmented Generation (RAG)
+- Graph RAG
+- Knowledge Graphs
+- Neo4j
+- ChromaDB
+- Pinecone
+- FAISS
+- Qdrant
+- Vector Search
+- Hybrid Search
+- Semantic Search
+- Embeddings
+- Re-ranking
+
+---
+
+### 🧪 LLM Engineering
+
+- Prompt Engineering
+- Context Engineering
+- Evaluation Pipelines
+- LLM Observability
+- Prompt Optimization
+- Fine-tuning
+- LoRA / QLoRA
+- Structured Generation
+- Long Context Processing
+- Guardrails
+
+---
+
+### ⚡ Backend & AI Infrastructure
+
+- Python
 - FastAPI
 - REST APIs
-- Python application architecture
-- Async workflow integration
-
-### Data / Retrieval
-- MySQL
-- Vector search concepts
-- Embeddings pipelines
-- Semantic search
-- Knowledge-grounded QA systems
-
-### Cloud / DevOps
-- AWS
+- AsyncIO
+- Pydantic
+- SQLAlchemy
 - Docker
+- Redis
+- Celery
+
+---
+
+### 🗄️ Data & Databases
+
+- PostgreSQL
+- MySQL
+- Neo4j
+- SQLite
+
+---
+
+### 📊 Machine Learning & NLP
+
+- PyTorch
+- TensorFlow
+- Scikit-learn
+- Hugging Face Transformers
+- Pandas
+- NumPy
+- spaCy
+- NLTK
+
+---
+
+### ☁️ Cloud & DevOps
+
+- AWS
 - Git
+- GitHub Actions
 - Linux
+- CI/CD
+- Containerization
+- Model Deployment
+- API Development
 
-## Areas I Build In
+---
 
-- **LLM Applications**: intelligent assistants, domain copilots, document analysis, Q&A systems
-- **Agentic Workflows**: research agents, task automation systems, tool-using assistants
-- **RAG Systems**: private knowledge assistants, enterprise search, grounded response generation
-- **ML Systems**: NLP pipelines, model experimentation, analytics-driven AI features
+### 🛠️ Developer Tools
 
-## Current Focus
+- VS Code
+- Jupyter Notebook
+- Postman
+- ClearML
+- GitHub
+- Cursor
+- Claude Code
 
-- Building **retrieval-augmented LLM applications** with stronger grounding and response quality
-- Exploring **agentic architectures** for multi-step reasoning and autonomous task execution
-- Improving **reliability, evaluation, and observability** in production AI applications
-- Turning research ideas into **deployable, measurable GenAI systems**
+---
 
-## Let's Connect
+# 📺 Content Creator
+
+I also run
+
+# Blueprint of AI
+
+where I teach
+
+- Generative AI
+- AI Agents
+- LLM Engineering
+- LangGraph
+- RAG
+- AI Tools
+- Prompt Engineering
+
+📺 YouTube
+
+💼 LinkedIn
+
+---
+
+# 📈 GitHub Stats
 
 <p align="center">
-  <code><a href="https://www.linkedin.com/in/itsvikaspandey/" title="LinkedIn Profile"><img height="22" width="22" src="img\linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.kaggle.com/itsmevkpandey/" title="Kaggle Profile"><img height="22" width="22" src="img\kaggle.svg"> Kaggle</a></code>
-  <code><a href="https://www.instagram.com/vikas.p1212/" title="Instagram Profile"><img height="22" width="22" src="img\instagram.svg"> Instagram</a></code>
+
+<img src="https://github-readme-stats.vercel.app/api?username=itsvikaspandey&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsvikaspandey&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsvikaspandey&layout=compact&theme=tokyonight"/>
+
 </p>
 
-<p align="center">
-  Open to collaborating on GenAI products, LLM application engineering, agentic systems, and applied AI research.
-</p>
+---
+
+# 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsvikaspandey&show_icons=true&theme=dark" width="700" /><br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsvikaspandey&theme=dark&hide_border=true" width="700" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=itsvikaspandey&theme=algolia&margin-w=15&margin-h=15"/>
+
+</p>
+
+---
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/itsvikaspandey/">LinkedIn</a> •
+<a href="https://blueprintofai.in">Website</a> •
+<a href="https://www.youtube.com/@BlueprintOfAI">YouTube</a> •
+<a href="https://www.kaggle.com/itsmevkpandey/">Kaggle</a>
+
+</p>
+
+---
+
+<p align="center">
+
+💡 Open to collaborating on AI Infrastructure, Agentic AI, Enterprise GenAI, LLM Engineering, and Applied AI Research.
+
 </p>

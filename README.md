@@ -16,9 +16,9 @@ Building production-ready AI systems powered by Large Language Models, Multi-Age
 <img src="https://img.shields.io/github/followers/itsvikaspandey?label=Followers&style=for-the-badge">
 </a>
 
-<a href="https://www.linkedin.com/in/itsvikaspandey/">
+<!-- <a href="https://www.linkedin.com/in/itsvikaspandey/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-</a>
+</a> -->
 
 <a href="https://www.youtube.com/@BlueprintOfAI">
 <img src="https://img.shields.io/badge/Blueprint%20of%20AI-FF0000?style=for-the-badge&logo=youtube">
